@@ -22,3 +22,7 @@ This repository demonstrates how to build a simple tokenizer and convert text in
 
 - Beginners who want to understand how tokenization works.
 - Anyone interested in building basic NLP pipelines or LLM components from scratch.
+
+## Credit
+
+Inspired by and adapted from: [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
